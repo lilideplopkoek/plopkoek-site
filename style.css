@@ -1,0 +1,14 @@
+h1 {
+    color: pink;
+  }
+  h2 { 
+  color: green ;
+
+  } 
+  figure {
+    float:left;
+    max-width: 20%;
+  }
+  img {
+    max-width: 100%;
+  }
